@@ -44,5 +44,4 @@ npm install
 
 ## Run the Server
 node server.js
-git clone https://github.com/<your-username>/IMGPS.git
-cd IMGPS
+
