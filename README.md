@@ -37,8 +37,8 @@ git clone https://github.com/Sarim1693/Image-Processing-System.git
 npm install
 
 ## Create .env file
-**PORT:**3000
-**JWT_SECRET:**YOUR_JWT_SECRET_KEY
+**PORT:** 3000
+**JWT_SECRET:** YOUR_JWT_SECRET_KEY
 **UPLOAD_DIR:** YOUR_UPLOAD_DIR
 **BASE_URL:** http://localhost:3000
 
