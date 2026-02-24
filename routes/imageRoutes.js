@@ -119,7 +119,6 @@ router.get('/', auth, async (req, res) => {
       Image.countDocuments({ owner })
     ]);
 
-    // ✅ Add BASE_URL for complete image access
     const BASE_URL = process.env.BASE_URL || 'http://localhost:3000';
 
     const updatedImages = images.map(img => ({
